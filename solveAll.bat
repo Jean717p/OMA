@@ -1,0 +1,1 @@
+for %%f in (.\input\*.txt) do "C:\Users\Jean717p\Documents\Docs poli\Optimization methods and algorithms\optimizationProject 2\optimizationProject\cmake-build-debug\Coiote_heuristic.exe" -i %%f -o .\output\summary.csv
